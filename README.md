@@ -5,7 +5,7 @@
 Our paper analyze the data characteristics of credit score cards and propose an optimization algorithm for compressing the target matrix through preprocessing, leveraging the repetitiveness and monotonic interval of the objective function. This approach focuses on reducing computational complexity through data preprocessing and matrix mapping. Our research reveals that this method effectively lowers time complexity, with its impact becoming more pronounced as the number of card-value combinations and the volume of data increase.
 
 ## Our Advantage
-|<img align="left" width="480" height="170" src="https://github.com/DanggoRyo/Matrix-Filtering/blob/master/loss_over_time.png">|<img align="right" width="450" height="270" src="https://github.com/DanggoRyo/Matrix-Filtering/blob/master/compile_over_time.png">|
+|<img align="left" width="480" height="170" src="https://github.com/DanggoRyo/Matrix-Filtering/blob/main/loss_over_time.png">|<img align="right" width="450" height="270" src="https://github.com/DanggoRyo/Matrix-Filtering/blob/main/compile_over_time.png">|
 |:--:|:--:| 
 | **Compute time of constructing the objective function** | **Compute time of converting into QUBO** |
 
