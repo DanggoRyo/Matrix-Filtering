@@ -7,7 +7,7 @@ Our paper analyze the data characteristics of credit score cards and propose an 
 ## Our Advantage
 |<img align="left" width="480" height="170" src="https://github.com/DanggoRyo/Matrix-Filtering/blob/main/loss_over_time.png">|<img align="right" width="450" height="270" src="https://github.com/DanggoRyo/Matrix-Filtering/blob/main/compile_over_time.png">|
 |:--:|:--:| 
-| **Compute time of constructing the objective function** | **Compute time of converting into QUBO** |
+| **Compute time of \\constructing the objective function** | **Compute time of \\converting into QUBO** |
 
 ## Requirement
 
